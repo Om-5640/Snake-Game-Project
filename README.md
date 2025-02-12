@@ -1,3 +1,5 @@
+# 404 Not Found
+
 # Snake Game with Portals
 
 ## 📌 Overview
@@ -57,15 +59,15 @@ This is a **Snake Game** built in **C++** that features obstacles and an optiona
 - Running into **obstacles**.
 - Colliding with **your own body**.
 
-## 👥 Developers & Group Name
+## 👥 Developers & Group Number
 
-- **Developers**:&#x20;
+- **Developers**:
 
-- Om Pandya(202401136)   
+- Om Pandya(202401136)
 
-- Het Lathiya (202401104)  
+- Het Lathiya (202401104)
 
-- &#x20;Rushiraj Navar (202401127)
+- Rushiraj Navar (202401127)
 
-- Group Name: 2
+- **Group Number**: 2
 
